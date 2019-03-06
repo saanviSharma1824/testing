@@ -12,6 +12,7 @@
 		04487403222FEA380025B518 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04487401222FEA380025B518 /* Main.storyboard */; };
 		04487405222FEA380025B518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04487404222FEA380025B518 /* Assets.xcassets */; };
 		04487408222FEA380025B518 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04487406222FEA380025B518 /* LaunchScreen.storyboard */; };
+		04487412222FEEEB0025B518 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04487411222FEEEB0025B518 /* NewViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04487404222FEA380025B518 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04487407222FEA380025B518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04487409222FEA380025B518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04487411222FEEEB0025B518 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				04487404222FEA380025B518 /* Assets.xcassets */,
 				04487406222FEA380025B518 /* LaunchScreen.storyboard */,
 				04487409222FEA380025B518 /* Info.plist */,
+				04487411222FEEEB0025B518 /* NewViewController.swift */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04487412222FEEEB0025B518 /* NewViewController.swift in Sources */,
 				04487400222FEA380025B518 /* ViewController.swift in Sources */,
 				044873FE222FEA380025B518 /* AppDelegate.swift in Sources */,
 			);
